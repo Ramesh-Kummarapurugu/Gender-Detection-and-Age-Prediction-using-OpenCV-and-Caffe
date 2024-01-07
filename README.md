@@ -10,6 +10,13 @@ Input from camera:
 
 ![from camera](https://github.com/Ramesh-Kummarapurugu/Gender-Detection-and-Age-Prediction-using-OpenCV-and-Caffe/assets/102913876/d10a1b34-0ef3-4c82-8529-bf62516c71ca)
 
+Input from image:
+
+![from image](https://github.com/Ramesh-Kummarapurugu/Gender-Detection-and-Age-Prediction-using-OpenCV-and-Caffe/assets/102913876/710089c0-259d-420c-91f4-75db637f8d65)
+
+
+
+
 
 
 
