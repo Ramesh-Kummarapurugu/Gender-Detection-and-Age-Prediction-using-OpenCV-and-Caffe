@@ -4,3 +4,12 @@ Gender Detection And Age Prediction Using OpenCV And Caffe
 
 Our main intention is to easy the process of finding criminals by searching in the given age group and gender and it also can be used to decide on how to communicate based on the gender.
 
+SCREENSHOTS:
+
+Input from camera:
+
+![from camera](https://github.com/Ramesh-Kummarapurugu/Gender-Detection-and-Age-Prediction-using-OpenCV-and-Caffe/assets/102913876/d10a1b34-0ef3-4c82-8529-bf62516c71ca)
+
+
+
+
