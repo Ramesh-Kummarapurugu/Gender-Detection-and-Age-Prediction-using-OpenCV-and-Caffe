@@ -18,6 +18,3 @@ Input from image
 
 ![Alt text](from%20image.png)
 
-Input from video
-
-![Alt text](from%20video.png)
