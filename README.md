@@ -12,7 +12,7 @@ SCREENSHOTS:
 
 Input from camera
 
-![Alt text](https://github.com/NagaSatyaSaiPavirala/Gender-Detection-And-Age-Prediction-Using-OpenCV-And-Caffe)
+![Alt text](https://github.com/NagaSatyaSaiPavirala/Gender-Detection-And-Age-Prediction-Using-OpenCV-And-Caffe/blob/main/from%20camera.png)
 
 Input from image
 
